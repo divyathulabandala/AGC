@@ -6,7 +6,7 @@ In an existing project given to me by Udacity for my nanodegree course, using Ja
 
 ##  How to Run Appilcation
 
-Download repositrory from <a href="https://github.com/Ul1ra/FeedReader">here.</a>
+Download repositrory from <a href="https://github.com/divyathulabandala/AGC">here.</a>
 Then open the index.html file in a browser.
 
 
